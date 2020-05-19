@@ -4,6 +4,8 @@ A port of [mabc224/instagram-hashtag-scraper](https://github.com/mabc224/instagr
 
 ## Install
 
+[scrap_instagram_hashtag](https://www.npmjs.com/package/scrap_instagram_hashtag)
+
 ```
 npm install scrap_instagram_hashtag
 ```

@@ -1,6 +1,6 @@
 {
   "name": "scrap_instagram_hashtag",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A port of mabc224/instagram-hashtag-scraper into a npm module",
   "main": "src/index.js",
   "scripts": {},
