@@ -1,0 +1,22 @@
+{
+  "name": "scrap_instagram_hashtag",
+  "version": "1.0.0",
+  "description": "A port of mabc224/instagram-hashtag-scraper into a npm module",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChoqueCastroLD/scrap_instagram_hashtag.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChoqueCastroLD/scrap_instagram_hashtag/issues"
+  },
+  "homepage": "https://github.com/ChoqueCastroLD/scrap_instagram_hashtag#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "lodash": "^4.17.15"
+  }
+}
